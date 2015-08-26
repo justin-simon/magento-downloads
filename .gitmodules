@@ -1,0 +1,3 @@
+[submodule "magento-sample-data"]
+	path = magento-sample-data
+	url = https://github.com/sonassi/magento-sample-data
